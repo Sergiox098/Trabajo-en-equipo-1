@@ -10,5 +10,3 @@ Metros_semana = Metros * Dias_semana
 
 print(f"En una semana, la vaca produce {Litros_semana} litros de leche, usando {Metros_semana} metros cuadrados de pasto")
 
-print("Hola mundo")
-
